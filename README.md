@@ -41,10 +41,20 @@ It performs both classification (insulator vs non-insulator) and regression (ban
 
 | Metrics      |    Score   |
 |--------------|------------|
-| Accuracy     |    93.6%   |
-| Precision    |    92.3%   |
-| Recall       |    94.1%   |
-| F1-Score     |    93.2%   |
+| Accuracy     |    91%   |
+| Precision    |    90%   |
+| Recall       |    97%   |
+| F1-Score     |    93%   |
+
+📈 **Model Performance** <br/>
+🔢 **Classification (Deep Learning)** <br/>
+
+| Metrics      |    Score   |
+|--------------|------------|
+| Accuracy     |    90%   |
+| Precision    |    86.48%   |
+| Recall       |    81.6%   |
+| F1-Score     |    84%   |
 
 
 📄 **Conclusion** <br/>
