@@ -29,6 +29,14 @@ It performs both classification (insulator vs non-insulator) and regression (ban
 4. Fully visualized EDA and preprocessing steps.<br/><br/>
 
 📈 **Model Performance** <br/>
+🔢 **Regression (Linear Regression)** <br/>
+| **Metrics**               |   **Score**   |
+|---------------------------|---------------|
+| MSE (Mean Sqaured Error)  |     0.1252    |
+| MAE (Mean Absolute Error) |     0.2271    |
+| R<sup>2</sup> (R-Squared)           |     0.7985    |<br/><br/>
+
+📈 **Model Performance** <br/>
 🔢 **Classification (Random Forest Classifier)** <br/>
 
 | Metrics      |    Score   |
